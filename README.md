@@ -9,7 +9,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Repository](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&logoColor=white)](https://github.com/AdityaGit8009/FTS)
 
-**[Explore the Code](https://github.com/AdityaGit8009/FTS)** · **[Report an Issue](https://github.com/AdityaGit8009/FTS/issues)** · **[Developer Profile](https://github.com/AdityaGit8009)**
+**[Explore the Code](https://github.com/deepakbharti-cloud/File-Trackin-System_Project)** · **[Report an Issue](https://github.com/deepakbharti-cloud/File-Trackin-System_Project/issues)** · **[Developer Profile](https://github.com/deepakbharti-cloud/my-portfolio)**
 
 </div>
 
@@ -217,11 +217,11 @@ Please avoid including real employee information, secrets, or private uploaded d
 
 ## 👨‍💻 Developer
 
-**Aditya Pratap Vishwakarma**
+**Deepak Bharti**
 
-- 🌐 [GitHub](https://github.com/AdityaGit8009)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vish-aditya/)
-- 📧 [Email](mailto:adityapratap7391@gmail.com)
+- 🌐 [GitHub](https://github.com/deepakbharti-cloud)
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepak-bharti-ab7622315?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 [Email](mailto:deepak28609@gmail.com)
 
 ---
 
@@ -234,4 +234,4 @@ Please avoid including real employee information, secrets, or private uploaded d
 </div>
 =======
 # File-Trackin-System_Project
->>>>>>> 96cd28cb03837bbeff3f642157c19e27dfbb093d
+>>>>>>> 
