@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 📁 FTS — File Tracking System
@@ -232,3 +233,6 @@ Please avoid including real employee information, secrets, or private uploaded d
 ⭐ If you find this project useful, consider starring the repository.
 
 </div>
+=======
+# File-Trackin-System_Project
+>>>>>>> 96cd28cb03837bbeff3f642157c19e27dfbb093d
